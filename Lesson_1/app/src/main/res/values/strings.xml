@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="btn_anotherTown">Choose a different city</string>
+</resources>
