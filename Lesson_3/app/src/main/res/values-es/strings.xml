@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Previsión del tiempo</string>
+    <string name="btn_anotherTown">Elegir otra ciudad</string>
+
+    <string name="selectActivity_btn_city0">Bilbao</string>
+    <string name="selectActivity_btn_city1">Moscú</string>
+    <string name="selectActivity_btn_city2">Madrid</string>
+    <string name="selectActivity_btn_city3">Londres</string>
+
+    <string name="selectActivity_textView">Elige una ciudad</string>
+</resources>
