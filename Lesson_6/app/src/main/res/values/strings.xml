@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="btn_anotherTown">Choose a different city</string>
+    <string name="btn_showAboutTown">Show information about the city</string>
+
+    <string name="selectActivity_btn_city0">Bilbao</string>
+    <string name="selectActivity_btn_city1">Moscow</string>
+    <string name="selectActivity_btn_city2">Madrid</string>
+    <string name="selectActivity_btn_city3">London</string>
+
+    <string name="selectActivity_textView">Select city</string>
+
+</resources>
