@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="buttonSizePort">20sp</dimen>
+    <dimen name="buttonSizeLand">15sp</dimen>
+    <dimen name="buttonMarginPort">30dp</dimen>
+    <dimen name="buttonMarginLand">30dp</dimen>
+
+    <dimen name="textViewSizePort">20sp</dimen>
+    <dimen name="textViewSizeLand">20sp</dimen>
+    <dimen name="textViewMarginPort">20dp</dimen>
+    <dimen name="textViewMarginLand">15dp</dimen>
+    <dimen name="textViewMarginBottomPort">30dp</dimen>
+    <dimen name="textViewMarginBottomLand">30dp</dimen>
+</resources>
