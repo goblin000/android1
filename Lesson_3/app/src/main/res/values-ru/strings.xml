@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="btn_anotherTown">Выбрать другой город</string>
+
+    <string name="selectActivity_btn_city0">Бильбао</string>
+    <string name="selectActivity_btn_city1">Москва</string>
+    <string name="selectActivity_btn_city2">Мадрид</string>
+    <string name="selectActivity_btn_city3">Лондон</string>
+
+    <string name="selectActivity_textView">Выберите город</string>
+</resources>

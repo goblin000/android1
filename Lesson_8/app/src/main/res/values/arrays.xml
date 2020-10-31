@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pictures_moscow">
+        <item>@drawable/moscow</item>
+        <item>@drawable/moscow2</item>
+        <item>@drawable/moscow3</item>
+    </array>
+</resources>
