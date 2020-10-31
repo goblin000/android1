@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Previsión del tiempo</string>
+    <string name="btn_anotherTown">Elegir otra ciudad</string>
+    <string name="btn_showAboutTown">Abrir información de la ciudad</string>
+
+
+    <string name="selectActivity_btn_city0">Bilbao</string>
+    <string name="selectActivity_btn_city1">Moscú</string>
+    <string name="selectActivity_btn_city2">Madrid</string>
+    <string name="selectActivity_btn_city3">Londres</string>
+
+    <string name="selectActivity_textView">Elige una ciudad</string>
+
+    <string name="showSelectedTown">Has elegido la ciudad de</string>
+
+    <string name="WeatherFromTheInternet">Pronóstico del tiempo de Internet</string>
+
+    <string name="city">Ciudad</string>
+    <string name="temperature">Temperatura</string>
+    <string name="temperature_max">Temperatura (máx.)</string>
+    <string name="temperature_min">Temperatura (min.)</string>
+    <string name="pressure">Presión</string>
+    <string name="humidity">Humedad</string>
+    <string name="wind_speed">Velocidad del viento</string>
+    <string name="refresh">Renovar</string>
+    <string name="btnHint">Escriba el nombre de la ciudad</string>
+
+</resources>

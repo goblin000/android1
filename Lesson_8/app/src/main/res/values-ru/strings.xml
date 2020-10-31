@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="btn_anotherTown">Выбрать другой город</string>
+    <string name="btn_showAboutTown">Показать информацию о городе</string>
+
+    <string name="selectActivity_btn_city0">Бильбао</string>
+    <string name="selectActivity_btn_city1">Москва</string>
+    <string name="selectActivity_btn_city2">Мадрид</string>
+    <string name="selectActivity_btn_city3">Лондон</string>
+
+    <string name="selectActivity_textView">Выберите город</string>
+
+    <string name="showSelectedTown">Вы выбрали город</string>
+
+
+    <string name="WeatherFromTheInternet">Прогноз погоды из Интернета</string>
+
+
+    <string name="city">Город</string>
+    <string name="temperature">Температура</string>
+    <string name="temperature_max">Температура (макс.)</string>
+    <string name="temperature_min">Температура (мин.)</string>
+    <string name="pressure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="refresh">Обновить</string>
+    <string name="btnHint">Введите имя города</string>
+
+
+</resources>

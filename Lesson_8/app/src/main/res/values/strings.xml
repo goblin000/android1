@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="btn_anotherTown">Choose a different city</string>
+    <string name="btn_showAboutTown">Show information about the city</string>
+
+    <string name="selectActivity_btn_city0">Bilbao</string>
+    <string name="selectActivity_btn_city1">Moscow</string>
+    <string name="selectActivity_btn_city2">Madrid</string>
+    <string name="selectActivity_btn_city3">London</string>
+
+    <string name="selectActivity_textView">Select city</string>
+
+    <string name="showSelectedTown">You have chosen the city of</string>
+
+    <string name="WeatherFromTheInternet">Weather forecast from the Internet</string>
+
+    <string name="city">City</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_max">Temperature (max.)</string>
+    <string name="temperature_min">Temperature (мin.)</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="refresh">Refresh</string>
+    <string name="btnHint">Enter name of city</string>
+
+</resources>

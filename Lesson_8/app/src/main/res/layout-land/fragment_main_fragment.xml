@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorBackground"
+    >
+
+
+    <TextView
+        android:id="@+id/textTownName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/textViewMarginBottomLand"
+        android:text="@string/selectActivity_btn_city0"
+        android:layout_margin="@dimen/textViewMarginLand"
+        android:textSize="@dimen/textViewSizeLand"
+        android:textColor="@color/colorShowTown"
+        android:textAlignment="center"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnWeatherFromInternet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/WeatherFromTheInternet"
+        android:textSize="@dimen/buttonSizePort"
+        style="@style/AppTheme.MaterialButton"
+        android:layout_below="@id/btnOpenForAnyDays"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOpenForAnyDays"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="0dp"
+        android:background="@color/colorBackgroundButton"
+        android:text="Прогнох на несколько дней"
+        android:textSize="@dimen/buttonSizeLand"
+        android:layout_below="@id/textTownName"
+        />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="0dp"
+        app:srcCompat="@drawable/map"
+        android:layout_below="@id/btnOpenForAnyDays"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOpenInfoAboutCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/buttonMarginLand"
+        android:layout_below="@id/imageView"
+        android:background="@color/colorBackgroundButton"
+        android:textSize="@dimen/buttonSizeLand"
+        android:text="@string/btn_showAboutTown"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSelectTown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/buttonMarginLand"
+        android:layout_alignParentBottom="true"
+        android:text="@string/btn_anotherTown"
+        android:layout_below="@id/btnOpenInfoAboutCity"
+        android:textSize="@dimen/buttonSizeLand"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>
