@@ -19,7 +19,7 @@ public class CL_GetDataFromServer {
 
     private static final String TAG = "MY_LOG";
     private static final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&APPID=%s";
-    private static final String WEATHER_API_KEY = "f382b00d2c82942b90459b695aa7bf3f";
+    private static final String WEATHER_API_KEY = "@@@@@@@@@@@@@@@@@@@";
 
 
     private EditText editText_cityName;
